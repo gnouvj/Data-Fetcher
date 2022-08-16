@@ -1,6 +1,6 @@
 # Generic Data Fetcher
 
-## 🏆🏆 USF Senior Team Capstone Project - Best Project - CS Night 2021. 🏆🏆
+## 🏆 USF Senior Team Capstone Project - Best Project - CS Night 2021. 🏆
 
 🤝 Built in collaboration with **Josh, Geo, Ramneet** and **Mario Lim**. 🤝
 
