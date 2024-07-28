@@ -1,8 +1,8 @@
 # Generic Data Fetcher
 
-## 🏆 USF Senior Team Capstone Project - Best Project - CS Night 2021. 🏆
+## USF Senior Team Capstone Project - Best Project - CS Night 2021.
 
-🤝 Built in collaboration with **Josh, Geo, Ramneet** and **Mario Lim**. 🤝
+Built in collaboration with **Josh, Geo, Ramneet** and **Mario Lim**.
 
 ---
 Downloads a file given a URL to local disk, converts it into a CSV-formatted UTF-8 encoded file, and uploads it to a cloud storage service of choice. 
